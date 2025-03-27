@@ -1,8 +1,3 @@
-# requirements 
-
-I removed `torch>=1.7.1,<3`, `all_clip<2` (and few other things) for compatibility with my packages and faster installation with google colab.
-
-
 # clip-retrieval
 [![pypi](https://img.shields.io/pypi/v/clip-retrieval.svg)](https://pypi.python.org/pypi/clip-retrieval)
 [![NPM version](https://badge.fury.io/js/clip-retrieval-front.svg)](http://badge.fury.io/js/clip-retrieval-front)

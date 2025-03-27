@@ -1,6 +1,6 @@
 # requirements 
 
-I removed `torch>=1.7.1,<3` (and few other things) for compatibility with my packages and faster installation with google colab.
+I removed `torch>=1.7.1,<3`, `all_clip<2` (and few other things) for compatibility with my packages and faster installation with google colab.
 
 
 # clip-retrieval
